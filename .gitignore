@@ -1,0 +1,5 @@
+.env
+mySvgFile.svg
+output.png
+node_modules/
+.idea
