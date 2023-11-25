@@ -1,5 +1,7 @@
 # Junior Eurovision 2023 voting BOT
 
+### Don't judge me for the quality of the code, I wrote it in a few hours
+
 ### Usage/Installation guide
 
 ```npm i```
@@ -30,5 +32,5 @@ Run ``` node index.js ``` and the bot will do its job
 5. Then it displays math expression: 
    1. give **SVG** content, pass this into **mathpix.com**(OCR) and return math expression by text. For Example: **4+1**
    2. It sends to **OpenAI**(ChatGPT) API this math expression and give the result number. For example: 4 + 1 => **5**
-6. It fills received number result into **input** and then clicks finally: **Submit**
+6. It fills the received number result into **input** and then clicks finally: **Submit**
 
